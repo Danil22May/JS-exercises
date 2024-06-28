@@ -1,5 +1,5 @@
 // receiveing data from html input
-// calculate all the divisors of given number
+// calculate all the divisors of given numbers
 // ouput the result
 const inputNum = document.getElementById("inputNum");
 const inputNum2 = document.getElementById("inputNum2");
