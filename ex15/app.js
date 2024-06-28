@@ -10,7 +10,6 @@ const calc = () => {
   const num = Number(inputNum.value);
   if (num <= 1) {
     outputNum.innerHTML = "false";
-    return;
   }
 
   let isPrime = true;
